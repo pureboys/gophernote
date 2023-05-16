@@ -6,8 +6,6 @@ name: Node.js CI
 on:
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
 
 jobs:
   build:
@@ -24,3 +22,19 @@ jobs:
           cache: 'npm'
       - run: npm install
       - run: npm run build
+
+      - name: Tencent COS Action
+        # You may pin to the exact commit or the version.
+        # uses: zkqiang/tencent-cos-action@0caa1b4f62d8531085abd73ac5c2f62570609752
+        uses: zkqiang/tencent-cos-action@v0.1.0
+        with:
+          # COSCMD args, detail: https://cloud.tencent.com/document/product/436/10976
+          args: coscmd upload .vuepress/dist/ .
+          # Tencent cloud SecretId, from: https://console.cloud.tencent.com/cam/capi
+          secret_id: ${{ secrets.SECRETID }}
+          # Tencent cloud SecretKey, from: https://console.cloud.tencent.com/cam/capi
+          secret_key: ${{ secrets.SECRETKEY }}
+          # COS bucket name
+          bucket: ${{ secrets.BUCKET }}
+          # COS bucket region, detail: https://cloud.tencent.com/document/product/436/6224
+          region: ${{ secrets.REGION }}

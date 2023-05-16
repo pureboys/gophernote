@@ -23,7 +23,7 @@ actionText: About
 actionLink: /views/other/about
 ---
 
-## 快速开始
+## 快速开始啦
 
 **npx**
 
