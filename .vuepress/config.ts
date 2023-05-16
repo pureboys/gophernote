@@ -3,17 +3,17 @@ import type { DefaultThemeOptions } from "vuepress";
 import recoTheme from "vuepress-theme-reco";
 
 export default defineUserConfig({
-  title: "vuepress-theme-reco",
-  description: "Just playing around",
+  title: "Gopher Note",
+  // description: "Just playing around",
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
-    author: "reco_luan",
-    authorAvatar: "/head.png",
-    docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
-    docsBranch: "main",
-    docsDir: "example",
-    lastUpdatedText: "",
+    author: "oliver",
+    authorAvatar: "/head.jpeg",
+    // docsRepo: "https://github.com/pureboys/gophernote",
+    // docsBranch: "main",
+    // docsDir: "example",
+    // lastUpdatedText: "",
     // series 为原 sidebar
     // series: {
     //   "/docs/theme-reco/": [
