@@ -1,7 +1,7 @@
 ---
 title: "docker 配置文件"
 summary: "docker 配置文件"
-date: 2021-08-11T10:18:26+08:00
+date: 2021-08-11
 categories:
   - "ops"
 tags: 

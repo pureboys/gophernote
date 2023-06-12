@@ -1,7 +1,7 @@
 ---
 title: "Linux普通用户使用Wireshark的权限不足的问题"
 summary: "Linux普通用户使用Wireshark的权限不足的问题"
-date: 2020-11-07T09:36:28+08:00
+date: 2020-11-07
 categories:
   - "software"
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: "Mac下配置多版本java"
 summary: "Mac下配置多版本java"
-date: 2023-06-12T13:00:00+08:00
+date: 2023-06-12
 categories: 
   - "program"
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: "Clash 相关操作"
 summary: "Clash 相关操作"
-date: 2020-06-26T14:19:29+08:00
+date: 2020-06-26
 categories:
   - "software"
 tags: 

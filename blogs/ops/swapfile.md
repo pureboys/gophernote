@@ -1,7 +1,7 @@
 ---
 title: "如何为Linux新增swap交换空间"
 summary: "如何为Linux新增swap交换空间"
-date: 2020-10-10T21:28:21+08:00
+date: 2020-10-10
 categories:
   - "ops"
 tags:

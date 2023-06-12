@@ -1,7 +1,7 @@
 ---
 title: "idea 干净卸载以及配置文件所在位置"
 summary: "idea 干净卸载以及配置文件所在位置"
-date: 2020-09-12T17:05:54+08:00
+date: 2020-09-12
 categories: 
   - "software"
 tags: 

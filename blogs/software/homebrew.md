@@ -1,6 +1,6 @@
 ---
 title: "更换Homebrew源"
-date: 2020-07-10T16:46:19+08:00
+date: 2020-07-10
 summary: "更换Homebrew源"
 categories: 
   - "software"

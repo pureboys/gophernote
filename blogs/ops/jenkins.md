@@ -1,7 +1,7 @@
 ---
 title: "pipeline中Jenkinsfile实例"
 summary: "pipeline中Jenkinsfile实例"
-date: 2021-04-15T13:00:29+08:00
+date: 2021-04-15
 categories:
   - "ops"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "ClickHouse时间查询"
 summary: "ClickHouse时间查询"
-date: 2023-01-09T13:00:29+08:00
+date: 2023-01-09
 categories:
   - "program"
 tags:

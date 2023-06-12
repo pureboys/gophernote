@@ -1,7 +1,7 @@
 ---
 title: "使用Docker-compose快速搭建Kafka开发环境"
 summary: "使用Docker-compose快速搭建Kafka开发环境"
-date: 2020-10-20T10:18:26+08:00
+date: 2020-10-20
 categories:
   - "ops"
 tags:
